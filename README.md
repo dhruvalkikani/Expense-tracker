@@ -1,1 +1,2 @@
-# Fix me, a to-do list remainder app developed on java
+# Fix me
+A to-do list remainder app developed on java with help of andriod studio
